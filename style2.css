@@ -1,0 +1,142 @@
+.search-bar {
+    width: 650px;
+    height: 36px;
+    border-radius: 5px;
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+}
+.cat-border {
+    border-right: 1px solid;
+}
+.banner-img1 {
+    height: 147px;
+    width: 70%;
+}
+.banner-img2 {
+    height: 147px;
+    width: 15%;
+}
+.banner-img3 {
+    height: 147px;
+    width: 15%;
+}
+.category-img {
+    cursor: pointer;
+    width: 70px;
+    height: 90px;
+}
+.more-img {
+    padding: 10px 15px 15px 10px;
+    width: 230px;
+    height: 200px;
+}
+.more3-img {
+    padding: 10px 15px 15px 10px;
+    padding-bottom: 15px;
+    width: 410px;
+    height: 200px;
+}
+.more-main-div {
+    width: 32%;
+}
+.more2-img {
+    border-radius: 10px;
+    width: 140px;
+    height: 160px;
+}
+.more-div {
+    padding: 20px 10px 10px 10px;
+}
+.rec-img {
+    width: 240px;
+    height: 300px;
+}
+.img-school {
+    width: 110px;
+    height: 150px;
+}
+.img-deals-noon {
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 310px;
+    height: 150px;
+}
+.img-elect-deals {
+    width: 180px;
+    height: 250px;
+}
+.img-express {
+    width: 60px;
+    height: 16px;
+}
+.img-star {
+    width: 8px;
+    height: 8px;
+}
+.img-women-fashion {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-men-fashion {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-kid-fashion {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-electronics {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-fragnance {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-sports {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-toys {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-health {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.img-furniture {
+    padding: 10px;
+    width: 190px;
+    height: 250px;
+}
+.icon-footer {
+    /* padding: 15px; */
+    color: black;
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+}
+.icon-div {     
+    padding: 10px;
+}
+.img-google {
+    padding-right: 5px;
+    width: 115px;
+    height: 40px;
+}
+.img-social {
+    padding-right: 5px;
+    width: 45px;
+    height: 45px;
+}
